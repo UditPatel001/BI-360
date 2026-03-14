@@ -8,6 +8,12 @@ The dashboard enables stakeholders to monitor key business metrics, analyze tren
 🔗 **Live Dashboard:**  
 https://lnkd.in/gBWtJ4-X
 
+## Download Power BI File
+The PBIX file is large (230MB) and hosted externally.
+
+Download here:
+https://drive.google.com/drive/folders/1eHwYSrmclrnYIlCkAm8pBXyDBeZEaSMQ?usp=sharing
+
 ---
 
 ## Key Business Metrics
